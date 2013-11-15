@@ -1,0 +1,6 @@
+If you get any errors, check your PHP file. Make sure you’ve copied those quotation marks correctly – they need to be grave accents, not just regular quotes. This tells PHP to run the command as a shell user.
+Hooking up GitHub
+
+Login to your GitHub account at http://www.github.com/. Navigate to the admin settings for your repo. Select ‘Service Hooks’ and find the ‘Post/Receive URLs’ service hook.
+
+In the URL field,
